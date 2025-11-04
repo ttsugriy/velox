@@ -90,6 +90,7 @@ add_executable(
   MapKeysAndValuesTest.cpp
   MapKeysByTopNValuesTest.cpp
   MapMatchTest.cpp
+  MapAppendTest.cpp
   MapTest.cpp
   MapZipWithTest.cpp
   MultimapFromEntriesTest.cpp
